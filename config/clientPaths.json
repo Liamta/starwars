@@ -1,0 +1,11 @@
+{
+  "scripts": {
+      "entry": "./src/scripts/app.js",
+      "src": [ "./src/scripts/**/**.js", "./src/scripts/**/**.json" ],
+      "dist": "./public/js/"
+  },
+  "styles": {
+      "src": "./src/scss/**/**.scss",
+      "dist": "./public/css/"
+  }
+}

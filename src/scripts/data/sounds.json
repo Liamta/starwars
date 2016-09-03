@@ -1,0 +1,10 @@
+{
+  "imperialLaser": {
+    "src": "../audio/imperial/laser.wav",
+    "id": "imperial"
+},
+  "rebelLaser": {
+    "src": "../audio/imperial/laser.wav",
+    "id": "rebel"
+  }
+}
