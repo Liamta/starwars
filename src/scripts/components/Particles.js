@@ -9,7 +9,7 @@ module.exports = function(ctx) {
     var width;
     var height;
 
-    var particleCount = 750;
+    var particleCount = 100;
     var particles = [];
 
     for (var i = 0; i < particleCount; i++ ) {

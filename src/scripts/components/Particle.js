@@ -8,7 +8,7 @@ module.exports = function() {
 
         size: Math.random(),
         speed: Math.random() / 5,
-        color: 'rgba(255, 255, 255,' + Math.random() + ')',
+        color: 'rgba(255, 255, 255, 1)',
 
         x: Math.random() * window.innerWidth,
         y: Math.random() * window.innerHeight,
